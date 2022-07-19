@@ -3,6 +3,4 @@ layout: page
 title: ""
 ---
 
-# Paul Seibert
-
-I am a PhD student at the University of California, Berkeley with [Dr. Gerlein-Safdi](https://twitter.com/cgerleinsafdi?lang=en).
+I am a PhD student in environmental engineering at the University of California, Berkeley with [Dr. Gerlein-Safdi](https://twitter.com/cgerleinsafdi?lang=en).
