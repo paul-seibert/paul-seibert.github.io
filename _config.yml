@@ -8,17 +8,18 @@ date_format: "%B %d, %Y"
 
 # Layout
 remote_theme: chrisrhymes/bulma-clean-theme
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+baseurl: "paul-seibert.github.io"
+#show_excerpts: true        # show article excerpts on the home page
+#show_frame: true           # adds a gray frame to the site
+#show_sidebar: false        # show a sidebar instead of the usual header
+#minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home", icon: home}
-  - {file: "CV.html", title: "CV"}
-  - {file: "news.html", title: "News"}
+  - {title: "CV", url: "https://drive.google.com/file/d/1s8Dm0BSljudrTRBCOdkS62SmXEH6soSg/view?usp=sharing",icon=link}
+  - {file: "news.html", title: "Feed"}
   - {title: "Water and Carbon Lab", url: "https://sites.google.com/berkeley.edu/gerlein-safdi/home?authuser=0",icon=link}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -31,5 +32,7 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
- - jekyll-feed
- - jekyll-remote-theme
+ - github-pages
+ #- jekyll-feed
+ #- jekyll-remote-theme
+ 
