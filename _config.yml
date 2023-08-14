@@ -8,10 +8,11 @@ date_format: "%B %d, %Y"
 
 # Layout
 remote_theme: chrisrhymes/bulma-clean-theme
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+baseurl: "/my_project"
+#show_excerpts: true        # show article excerpts on the home page
+#show_frame: true           # adds a gray frame to the site
+#show_sidebar: false        # show a sidebar instead of the usual header
+#minimal: true             # use a dark header
 
 # Menu
 
@@ -31,5 +32,7 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
- - jekyll-feed
- - jekyll-remote-theme
+ - github-pages
+ #- jekyll-feed
+ #- jekyll-remote-theme
+ 
