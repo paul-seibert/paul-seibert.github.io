@@ -20,7 +20,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home", icon: home}
   - {title: "CV", url: "https://drive.google.com/file/d/1s8Dm0BSljudrTRBCOdkS62SmXEH6soSg/view?usp=sharing"}
-  - {file: "news.html", title: "News"}
+  - {file: "news.html", title: "Feed"}
   - {title: "Water and Carbon Lab", url: "https://sites.google.com/berkeley.edu/gerlein-safdi/home?authuser=0",icon=link}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
