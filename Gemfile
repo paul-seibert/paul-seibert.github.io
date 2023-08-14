@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
 
-gem "bulma-clean-theme",  '0.7.2'
+gem "bulma-clean-theme"
 
 gem "github-pages", group: :jekyll_plugins
+
+gem 'wdm', '>= 0.1.0'
