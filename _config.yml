@@ -19,10 +19,9 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home",icon: home, file: "index.md"}
-  - {title: "Posts", sidebaricon: paperclip, url: "_posts"}
-  - {title: "CV", sidebaricon: paperclip, url: "https://drive.google.com/file/d/1s8Dm0BSljudrTRBCOdkS62SmXEH6soSg/view?usp=sharing"}
-  #- {title: "Feed", sidebaricon: newspaper, file: "news.html"}
-  - {title: "Water and Carbon Lab",sidebaricon: link, url: "https://sites.google.com/berkeley.edu/gerlein-safdi/home?authuser=0"}
+  - {title: "Posts", icon: newspaper, url: "posts.md"}
+  - {title: "CV", icon: book, url: "https://drive.google.com/file/d/1s8Dm0BSljudrTRBCOdkS62SmXEH6soSg/view?usp=sharing"}
+  - {title: "Water and Carbon Lab",icon: link, url: "https://sites.google.com/berkeley.edu/gerlein-safdi/home?authuser=0"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:paul_seibert@berkeley.edu"}
