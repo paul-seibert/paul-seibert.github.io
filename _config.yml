@@ -20,7 +20,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home",icon: home, file: "index.md"}
   - {title: "Posts", icon: newspaper, file: "posts.md"}
-  - {title: "Personal History", icon: person, file: "history.md"}
+  - {title: "Personal History", icon: book-open, file: "history.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: "CV", icon: file, url: "https://drive.google.com/file/d/1s8Dm0BSljudrTRBCOdkS62SmXEH6soSg/view?usp=sharing"}
