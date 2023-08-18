@@ -27,7 +27,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:paul_seibert@berkeley.edu"}
   - {title: Github, icon: github, url: "https://github.com/paul-seibert"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/paul__seibert"}
+  - {title: GScholar, icon: book, url: "https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
