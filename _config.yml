@@ -24,10 +24,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: "CV", icon: file, url: "https://drive.google.com/file/d/1s8Dm0BSljudrTRBCOdkS62SmXEH6soSg/view?usp=sharing"}
-  - {title: "Water and Carbon Lab",icon: link, url: "https://sites.google.com/berkeley.edu/gerlein-safdi/home?authuser=0"}
-  - {title: Mail, icon: envelope, url: "mailto:paul_seibert@berkeley.edu"}
-  - {title: Github, icon: github, url: "https://github.com/paul-seibert"}
-  - {title: GScholar, icon: book, url: "https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ"}
+  # - {title: "Water and Carbon Lab",icon: link, url: "https://sites.google.com/berkeley.edu/gerlein-safdi/home?authuser=0"}
+  # - {title: Mail, icon: envelope, url: "mailto:paul_seibert@berkeley.edu"}
+  # - {title: Github, icon: github, url: "https://github.com/paul-seibert"}
+  # - {title: GScholar, icon: book, url: "https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
