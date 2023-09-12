@@ -8,7 +8,7 @@ show_sidebar: true
 
 This is where I post about life and/or research. Click on any of the links below to learn more! 
 
-[International Fog and Dew Conference](/_posts/fog_and_dew.md)
+[International Fog and Dew Conference](_posts/fog_and_dew.md)
 
 
 # Fog and Dew Conference 07-2023
