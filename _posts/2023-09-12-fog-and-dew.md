@@ -1,6 +1,8 @@
 ---
 title: "Fog and Dew"
 layout: post
+callouts: home_callouts
+show_sidebar: true
 ---
 
 # 2023-07 International Fog and Dew Conference
