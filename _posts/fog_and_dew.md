@@ -2,7 +2,7 @@
 
 In July 2023 I went to the [International Conference on Fog, Fog Collection, and Dew](https://fogdew2023.org/) in Fort Collins, Colorado. While there, I presented a poster that showed the results of a recent greenhouse fogging experiment that I have been working on. In this experiment, I fogged grasses overnight with deuterated water to quantify foliar uptake (how much fog are they using overnight). 
 
-![](./images/fog_poster.png)
+![poster](/images/fog_poster.png)
 
 I also met the leading world experts studying the formation, collection, and quantification of both fog and dew. 
 
