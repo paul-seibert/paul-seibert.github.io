@@ -1,11 +1,11 @@
 ---
-title: "Fog and Dew"
+title: "2023 International Fog and Dew Conference"
 layout: post
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# 2023-07 International Fog and Dew Conference
+# 2023 International Fog and Dew Conference
 
 In July 2023 I went to the [International Conference on Fog, Fog Collection, and Dew](https://fogdew2023.org/) in Fort Collins, Colorado. While there, I presented a poster that showed the results of a recent greenhouse fogging experiment that I have been working on. In this experiment, I fogged grasses overnight with deuterated water to quantify foliar uptake (how much fog are they using overnight). 
 
