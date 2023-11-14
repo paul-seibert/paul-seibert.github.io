@@ -7,8 +7,10 @@ show_sidebar: true
 ---
 
 Email: paul_seibert@berkeley.edu (feel free to contact me)  <br>
-Google Scholar Profile: [https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ](https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ) <br>
+Google Scholar Profile: [Paul O. Seibert](https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ) <br>
 Github Page:  [https://github.com/paul-seibert](https://github.com/paul-seibert) <br>
+
+If you're here from AGU and want to see more results, click [here](https://github.com/paul-seibert)! <br>
 
 In 2021 I graduated with my Bachelor's Degree in Civil Engineering from the 
 University of Maryland, College Park. I moved to the west coast to attend the University of California, Berkeley and get my Master's of Science degree in Environmental Engineering. In 2022, I graduated with my MS from UC Berkeley and began conducting research under the supervision of [Dr. Cynthia Gerlein-Safdi](https://twitter.com/cgerleinsafdi?lang=en). I am also part of the UC Berkeley environmental fluid mechanics and hydrology group [(EFMH)](https://ucb-efmh.github.io/efmh-site/index). In my free time, I like to climb rocks, play guitar, and cook new dishes. 
