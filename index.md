@@ -8,7 +8,7 @@ show_sidebar: true
 
 Email: paul_seibert@berkeley.edu (feel free to contact me)  <br>
 Google Scholar Profile: [Paul O. Seibert](https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ) <br>
-Github Page:  [https://github.com/paul-seibert](https://github.com/paul-seibert) <br>
+Github Page:  [https://github.com/paul-seibert](paul-seibert.github.io) <br>
 
 If you're here from AGU and want to see more results, click [here](https://github.com/paul-seibert)! <br>
 
