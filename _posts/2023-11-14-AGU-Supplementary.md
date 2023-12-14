@@ -12,7 +12,7 @@ At our site, we mount a SIF imager on a tripod to create hyperspectral images, a
 
 From this imagery we are able to observe solar-induced fluorescence (SIF), normalized differnece vegetative index (NDVI), and near-infrared vegetative reflectance (NIRvR) with fine spatial resolution (on the order of centimeters or less). Below is an example of the kinds of images we can create at a single point in time. 
 
-![imageexamples](images/imageexamples.PNG)
+![imageexamples](/images/imageexamples.PNG)
 
 With the [current call for proximal remote sensing](https://eos.org/science-updates/ecosystem-observations-from-every-angle) to understand the spatial heterogeneity of ecosystem productivity, this kind of imagery is extremely valuable and may lead to a re-structuring of the way we understand photosynthesis across landscapes. 
 
