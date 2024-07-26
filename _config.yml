@@ -32,6 +32,8 @@ external:                  # shows a footer with social links - for available ic
 load_paths:
     - _sass
     - node_modules
+
+github: [metadata]
     
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
