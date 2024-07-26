@@ -30,8 +30,6 @@ external:                  # shows a footer with social links - for available ic
   # - {title: GScholar, icon: book, url: "https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ"}
 
 repository: paul-seibert/paul-seibert.github.io
-
-github: [metadata]
     
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
