@@ -29,6 +29,10 @@ external:                  # shows a footer with social links - for available ic
   # - {title: Github, icon: github, url: "https://github.com/paul-seibert"}
   # - {title: GScholar, icon: book, url: "https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ"}
 
+load_paths:
+    - _sass
+    - node_modules
+    
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
