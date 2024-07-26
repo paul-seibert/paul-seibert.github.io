@@ -33,6 +33,8 @@ load_paths:
     - _sass
     - node_modules
 
+repository: paul-seibert/paul-seibert.github.io
+
 github: [metadata]
     
 comments:
