@@ -23,9 +23,14 @@
 
 {% if site.navigation %}
   {% assign pages = site.navigation %}
+
 {% else %}
-  {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
+  {% assign pages = site.pages where_exp: "item", "item.title and item.sitemap != false" sort: "order" %}
 {% endif %}
+  
+<!-- {% else %}
+  {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
+{% endif %} -->
 
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
