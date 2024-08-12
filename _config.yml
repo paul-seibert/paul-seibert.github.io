@@ -8,7 +8,7 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
-remote_theme: chrisrhymes/bulma-clean-theme
+#remote_theme: chrisrhymes/bulma-clean-theme
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
@@ -29,7 +29,7 @@ external:                  # shows a footer with social links - for available ic
   # - {title: Github, icon: github, url: "https://github.com/paul-seibert"}
   # - {title: GScholar, icon: book, url: "https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ"}
 
-repository: paul-seibert/paul-seibert.github.io
+#repository: paul-seibert/paul-seibert.github.io
     
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
@@ -37,4 +37,4 @@ comments:
 
 plugins:
  - jekyll-feed
- - jekyll-remote-theme
+# - jekyll-remote-theme
