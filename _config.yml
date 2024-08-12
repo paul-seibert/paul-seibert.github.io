@@ -6,11 +6,6 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-
-
-plugins:
- - jekyll-feed
-# - jekyll-remote-theme
  
 # Layout
 #remote_theme: chrisrhymes/bulma-clean-theme
@@ -18,27 +13,27 @@ plugins:
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+#minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Home",icon: home, file: "index.md"}
-  - {title: "Posts", icon: newspaper, file: "posts.md"}
-  - {title: "Personal History", icon: book-open, file: "history.md"}
+ # - {title: "Home",icon: home, file: "index.md"}
+ # - {title: "Posts", icon: newspaper, file: "posts.md"}
+#  - {title: "Personal History", icon: book-open, file: "history.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: "CV", icon: file, url: "https://drive.google.com/file/d/1s8Dm0BSljudrTRBCOdkS62SmXEH6soSg/view?usp=sharing"}
+  #- {title: "CV", icon: file, url: "https://drive.google.com/file/d/1s8Dm0BSljudrTRBCOdkS62SmXEH6soSg/view?usp=sharing"}
   # - {title: "Water and Carbon Lab",icon: link, url: "https://sites.google.com/berkeley.edu/gerlein-safdi/home?authuser=0"}
   # - {title: Mail, icon: envelope, url: "mailto:paul_seibert@berkeley.edu"}
   # - {title: Github, icon: github, url: "https://github.com/paul-seibert"}
   # - {title: GScholar, icon: book, url: "https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ"}
 
-repository: paul-seibert/paul-seibert.github.io
-github: [metadata]
+#repository: paul-seibert/paul-seibert.github.io
+#github: [metadata]
     
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+plugins:
+ - jekyll-feed
+# - jekyll-remote-theme
 
 
