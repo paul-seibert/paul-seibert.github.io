@@ -29,7 +29,7 @@ external:                  # shows a footer with social links - for available ic
   # - {title: Github, icon: github, url: "https://github.com/paul-seibert"}
   # - {title: GScholar, icon: book, url: "https://scholar.google.com/citations?hl=en&user=nuZWQfAAAAAJ"}
 
-#repository: paul-seibert/paul-seibert.github.io
+repository: paul-seibert/paul-seibert.github.io
 #github: [metadata]
     
 plugins:
