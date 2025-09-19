@@ -8,5 +8,5 @@ Welcome to my website! It is currently under construction...
 
 <embed src="{{ '/assets/files/CV_SeibertPaul_2025.pdf' | relative_url }}" 
        type="application/pdf" 
-       width="50%" 
+       width="100%" 
        height="600px" />
