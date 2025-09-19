@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications and conferences
+image: squinting_fieldwork.JPG
 permalink: /publications
 ---
 
