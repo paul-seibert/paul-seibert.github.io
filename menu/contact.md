@@ -4,4 +4,10 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+Feel free to contact me at any of the following emails. 
+
+Personal email: paulseibert98@gmail.com
+ 
+UC Berkeley email: paul_seibert@berkeley.edu
+
+LBNL email: pseibert@lbl.gov
