@@ -6,6 +6,8 @@ permalink: /about
 
 Welcome to my website! It is currently under construction...
 
+
+## Curriculum vitae 
 <embed src="{{ '/assets/files/CV_SeibertPaul_2025.pdf' | relative_url }}" 
        type="application/pdf" 
        width="100%" 
