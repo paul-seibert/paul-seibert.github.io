@@ -5,6 +5,8 @@ image: squinting_fieldwork.JPG
 permalink: /publications
 ---
 
+![Picture of myself squinting doing SIF imagery fieldwork.](/assets/img/squinting_fieldwork.JPG)
+
 ## Pre-print and submitted articles
 
 <sup>\*</sup>Seibert, P. O., Camp, E. M., Dawson. T.E., Gerlein-Safdi, C. (2025) **Drought limits foliar water uptake in C<sub>3</sub> perennial grasses**, *under review*. [https://essopenarchive.org/doi/full/10.22541/essoar.174395305.53667933](https://essopenarchive.org/doi/full/10.22541/essoar.174395305.53667933)
