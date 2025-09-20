@@ -4,8 +4,9 @@ title: About me
 permalink: /about
 ---
 
-Welcome to my website! It is currently under construction...
+<img src="/assets/img/headshot.jpg" alt="Picture of myself. Headshot." width="200px">
 
+Welcome to my website! It is currently under construction...
 
 ## Curriculum vitae 
 <embed src="{{ '/assets/files/CV_SeibertPaul_2025.pdf' | relative_url }}" 
