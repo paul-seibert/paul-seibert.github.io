@@ -25,5 +25,19 @@ permalink: /gallery
       <span class="caption"> Fog at Drake's estero in Point Reyes  (9-22-2025) </span>
     </a>
   </div>
+
+  <div class="gallery-item">
+    <a href="/assets/img/sif imager group photo.PNG" data-lightbox="gallery" data-title="Hyperspectral group photo">
+      <img src="/assets/img/sif imager group photo.PNG" alt="Hyperspectral group photo" />
+      <span class="caption"> Hyperspectral group photo (6-2-2022) </span>
+    </a>
+  </div>
+  
+  <div class="gallery-item">
+    <a href="/assets/img/foggy_olema.jpg" data-lightbox="gallery" data-title="Fog at Point Reyes Field Station">
+      <img src="/assets/img/foggy_olema.jpg" alt="Fog at Point Reyes Field Station" />
+      <span class="caption"> Fog at Point Reyes Field Station (10-24-2023) </span>
+    </a>
+  </div>
   
 </div>
