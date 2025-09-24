@@ -50,3 +50,35 @@ $rss-color:            #ff6600;
   transform: scale(1.05);
 }
 
+.gallery-item {
+  position: relative;
+  display: inline-block;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+.gallery-item .caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  text-align: center;
+  padding: 6px 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  font-size: 14px;
+  border-radius: 0 0 6px 6px;
+}
+
+.gallery-item:hover .caption {
+  opacity: 1;
+}
+
+
