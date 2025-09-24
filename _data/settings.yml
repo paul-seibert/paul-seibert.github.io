@@ -22,6 +22,7 @@ social:
 
 academic: 
 - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=nuZWQfAAAAAJ&hl=en'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0001-7475-1200'}
 
 # Customize site text
 pagination:
