@@ -31,3 +31,22 @@ $codepen-color:        black;
 $rss-color:            #ff6600;
 
 @import "-sections-dir";
+
+/* --- Custom gallery styles --- */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 20px;
+}
+.gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease;
+}
+.gallery img:hover {
+  transform: scale(1.05);
+}
+
