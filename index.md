@@ -15,7 +15,7 @@ In my work, I use a variety of tools, from machine learning and remote sensing t
 
 
 ## Curriculum vitae 
-<embed src="{{ '/assets/files/CV_SeibertPaul_2025.pdf' | relative_url }}" 
+<embed src="{{ '/assets/files/CV_SeibertPaul_2026.pdf' | relative_url }}" 
        type="application/pdf" 
        width="100%" 
        height="600px" />
