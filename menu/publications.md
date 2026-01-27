@@ -7,20 +7,25 @@ permalink: /publications
 
 ![Picture of myself squinting doing SIF imagery fieldwork.](/assets/img/squinting_fieldwork.JPG)
 
-## Pre-print and submitted articles
+<!--## Pre-print and submitted articles
 
 **P.O. Seibert**, C. Gerlein-Safdi, N. Falco, E. Pegoraro, M. Torn. Proximal hyperspectral imaging of solar-induced fluorescence in a heterogeneous grassland. *In prep.*
 
-**P.O. Seibert**, Z. Li, C. Gerlein-Safdi. Is foliar water uptake a universal process? Insights from a meta analysis and targeted experiment. *In prep*.
-
-A.J. Cao, Z. Li, **P.O. Seibert**, C. Gerlein-Safdi. The role of leaf wettability and morphology on leaf surface water storage: a cross-biome synthesis. *Submitted*. 
-
-K. Blount, J. V. Wilkening, A. Kagawa-Viviani, S.H. Ledford, A. Cao, X. Chen, S.L. Fathel, X. Feng, C. Gerlein-Safdi, K. E. Kaiser, C.J. Oswald, A.J. Parolari, V. Rexausen, C.A. Ross, **P.O. Seibert**, A. B. Willis. Out of the Forest and into the Concrete Jungle: Challenges, Opportunities, and Innovations in Urban Hydrology. *Under review*, Water Resources Research.
-
-**P.O. Seibert**, E. Camp, T. Dawson, C. Gerlein-Safdi. February 2025. Drought limits foliar water uptake in C3 perennial grasses. *Under review*, Journal of Geophysical Research: Biogeosciences. https://essopenarchive.org/doi/full/10.22541/essoar.174395305.53667933/v1.
-
+ **P.O. Seibert**, Z. Li, C. Gerlein-Safdi. Is foliar water uptake a universal process? Insights from a meta analysis and targeted experiment. *In prep*. -->
 
 ## Peer-reviewed articles
+A. Cao, Z. Li, **P.O. Seibert**, C. Gerlein-Safdi. January 2026. The Role of Leaf Wettability
+and Morphology on Leaf Surface Water Storage: A Cross-Biome Synthesis. Ecohydrology.
+19, no. 1: e70162. https://doi.org/10.1002/eco.70162.
+
+K. Blount, J. V. Wilkening, A. Kagawa-Viviani, S.H. Ledford, A. Cao, X. Chen, S.L.
+Fathel, X. Feng, C. Gerlein-Safdi, K. E. Kaiser, C.J. Oswald, A.J. Parolari, V. Rexausen,
+C.A. Ross, **P.O. Seibert**, A. B. Willis. Out of the Forest and into the Concrete Jungle:
+Challenges, Opportunities, and Innovations in Urban Hydrology. November 2025. Water
+Resources Research. 61, e2025WR040212. https://doi.org/10.1029/2025WR040212.
+
+
+**P.O. Seibert**, E. Camp, T. Dawson, C. Gerlein-Safdi. February 2025. Drought limits foliar water uptake in C3 perennial grasses. *Under review*, Journal of Geophysical Research: Biogeosciences. https://essopenarchive.org/doi/full/10.22541/essoar.174395305.53667933/v1.
 
 S. Ruehr, C. Gerlein-Safdi, N. Falco, **P.O. Seibert**, C. Chou, L. Albert, T. Keenan. July 28, 2024. Quantifying seasonal and diurnal cycles of solar-induced fluorescence with a novel hyperspectral imager. *Geophysical Research Letters*, 51, 2023GL107429. https://doi.org/10.1029/2023GL107429.
 
@@ -34,6 +39,10 @@ K. Brubaker, M. Zadeh, C. Walcott, J. Eisenstadht, **P.O. Seibert**, J. Slattery
 
 ### Oral 
 
+**P.O. Seibert**, Z. Li, C. Gerlein-Safdi, , Is foliar water uptake a universal
+process? Insights from a meta-analysis and targeted lab experiment, December
+2025, New Orleans, United States. Abstract H23F-03.
+
 **P.O. Seibert**, C. Gerlein-Safdi, S. Ruehr, N. Falco, M. Torn. Characterizing spatial heterogeneity of phenology and productivity using a solar-induced fluorescence imaging spectrometer: results from a multi-year field campaign in a coastal California grassland. AGU Fall Meeting 2024. Dec 2024, Washington DC, United States. Abstract B21B-09.
 
 C. Gerlein-Safdi and **P.O. Seibert**. Proximal imaging of SIF and spectral reflectance of coastal grasslands. SpecNet 2024. Nov 2024, online.
@@ -46,6 +55,15 @@ C. Gerlein-Safdi and **P.O. Seibert**. Estimating transpiration rates in dryland
 
 
 ### Poster
+C. Gerlein-Safdi, **P.O. Seibert**, Z. Li. Beyond the Bay: Spatio-Temporal
+Dynamics of Coastal Fog and Its Ecosystem Impacts from Local to Global
+Scales. December 2025, New Orleans, United States. Abstract B21G-02.
+
+**P.O. Seibert**, A. Palmer, M. Hartmann, D. Wilcox, K. Miller. Coupling
+Satellite Observations and Machine Learning to Predict Future Fog Preva-
+lence Along the Coast Redwood Range. December 2025, New Orleans, United
+States. Abstract B21G-04.
+
 **P.O. Seibert**, C. Gerlein-Safdi. Do Coastal Grasses Rely on Fog? Initial Results from a Field Campaign and Foliar Water Uptake Experiment. WaterSciCon 2024. June 2024, Minneapolis, United States. Abstract 217-137.
 
 **P.O. Seibert**, C. Gerlein-Safdi, N. Falco, S. Ruehr. Capturing solar-induced chlorophyll fluorescence dynamics with a novel hyperspectral imager: results from a multidimensional field campaign in a coastal California grassland. AGU Fall Meeting 2023. December 2023, San Francisco, United States. Abstract 1324529.
